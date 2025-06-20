@@ -27,9 +27,6 @@ This project focuses on **User-Based Collaborative Filtering**.
 
 ## 📂 Dataset Overview
 
-**Source**: [MovieLens 100k Dataset](https://grouplens.org/datasets/movielens/)
-
-**Files Used**:
 - `u.data`: Contains user ratings (user_id, item_id, rating, timestamp).
 - `Movie_Id_Titles`: Maps item_id to movie titles.
 
